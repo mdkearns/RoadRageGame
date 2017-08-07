@@ -1,0 +1,29 @@
+Game References
+
+	Special Acknowledgements:
+	
+		Harrison Kinsley of PythonProgramming.net for creating 
+		excellent tutorial videos on using pygame.
+
+	Official Documentation:
+		
+		https://www.pygame.org/docs/
+
+	Images:
+
+		graphicriver.net
+		artistsupplysource.com
+
+	Image Tools:
+
+		Image Manipulation:
+		
+			picresize.com (resizing images)
+			http://www196.lunapic.com/editor/ (background transparency)
+			
+	Sounds:
+	
+		https://opengameart.org/content/ (game_loop.ogg)
+		http://soundbible.com/262-Car-Screech-And-Crash.html (crash.wav)
+	
+		
